@@ -17,7 +17,7 @@ public class SirineDSLab2021 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-System.out.println("Welcome to DS Lab!) ;
+System.out.println("Welcome to DS Lab!");
     }
 
 }
